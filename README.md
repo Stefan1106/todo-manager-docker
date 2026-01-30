@@ -49,23 +49,41 @@ DevOps:
 ## Project Structure
 
 ds_project/
+
 ├── backend/
+
 │ ├── models/
+
 │ ├── routes/
+
 │ ├── server.js
+
 │ ├── Dockerfile
+
 │ └── .env
+
 │
+
 ├── todo-manager/
+
 │ ├── src/
+
 │ │ ├── components/
+
 │ │ ├── services/
+
 │ │ ├── App.jsx
+
 │ │ └── index.js
+
 │ └── Dockerfile
+
 │
+
 ├── docker-compose.yml
+
 └── README.md
+
 
 
 ---
